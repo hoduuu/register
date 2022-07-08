@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+td{
+	border:1px solid black;
+	width:200px;
+	text-align:center;
+}
+
+table.mainmenu td.login:hover{
+	background-color:pink;
+}
+a{
+text-decoration:none;
+color:red;
+}
+
